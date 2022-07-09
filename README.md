@@ -1,3 +1,7 @@
+gAAS AR s©hwedeo? http://mosquitohelicopters.com.au/mosquito-air.html
+
+Modit haa! ღა! ერთად უნა გავისხენოოდ, NASA ₽ööT$? და რად იგვიანებენ?
+
 # GAAS: Towards L5 Autonomous Flying Cars, a Robust Framework Extends GAAS with Lidars!
 
 ![Star](https://img.shields.io/github/stars/generalized-intelligence/gaas?style=flat-square)![fork](https://img.shields.io/github/forks/generalized-intelligence/gaas?style=flat-square)![watch](https://img.shields.io/github/watchers/generalized-intelligence/gaas?style=flat-square)![BSD-3](https://img.shields.io/github/license/generalized-intelligence/gaas?style=flat-square)![twitter](https://img.shields.io/twitter/follow/GAAS_dev?style=social)
